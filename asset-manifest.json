@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaccine/static/css/main.b99874f4.css",
+    "main.js": "/vaccine/static/js/main.0f711625.js",
+    "static/js/787.eda4dedf.chunk.js": "/vaccine/static/js/787.eda4dedf.chunk.js",
+    "index.html": "/vaccine/index.html",
+    "main.b99874f4.css.map": "/vaccine/static/css/main.b99874f4.css.map",
+    "main.0f711625.js.map": "/vaccine/static/js/main.0f711625.js.map",
+    "787.eda4dedf.chunk.js.map": "/vaccine/static/js/787.eda4dedf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99874f4.css",
+    "static/js/main.0f711625.js"
+  ]
+}
